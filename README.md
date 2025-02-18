@@ -45,13 +45,13 @@ pip install tensorflow numpy matplotlib opencv-python scikit-learn
 
 ## 🎯Prediction Example
 
-Jika pengguna memilih gambar input, model akan menampilkan hasil seperti berikut:
+If the user selects an input image, the model will display results as follows:
 
 ```bash
 Detected Class: CTBrain_tumor
 ```
 
-Disertai dengan visualisasi gambar input.
+Accompanied by a visualization of the input image.
 
 ## LICENSE
 
