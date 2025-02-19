@@ -14,8 +14,10 @@ The dataset consists of three brain disease classes:
 
 ## Dataset directory structure
 
-```
+```bash
 healthy/
+|-- data_testing/
+|
 |-- data_train/
 | |-- CTBrain_aneurysm/
 | |-- CTBrain_cancer/
@@ -32,8 +34,7 @@ healthy/
 To run this project, ensure you have Python and the required libraries installed:
 
 ```bash
-pip install tensorflow numpy matplotlib opencv-python scikit-learn
-
+pip install tensorflow numpy matplotlib opencv-python scikit-learn keras
 ```
 
 ## Usage
