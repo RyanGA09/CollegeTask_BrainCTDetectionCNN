@@ -1,4 +1,4 @@
-# BrainCT-Detection-CNN
+# CollegeTask - BrainCT Detection CNN
 
 ## Project Description
 
