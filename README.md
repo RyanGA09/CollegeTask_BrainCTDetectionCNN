@@ -12,6 +12,8 @@ The dataset consists of three brain disease classes:
 - CTBrain_cancer
 - CTBrain_tumor
 
+The dataset used in this project is sourced from Kaggle. You can access and download the dataset from [this link](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain).
+
 ## Dataset directory structure
 
 ```bash
