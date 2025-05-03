@@ -1,10 +1,10 @@
-# CollegeTask - BrainCT Detection CNN
+# 🧠 CollegeTask - BrainCT Detection CNN
 
-## Project Description
+## 📄 Project Description
 
 This project utilizes a Convolutional Neural Network (CNN) to detect brain diseases based on CT scan images. The model is developed using TensorFlow and Keras, with image preprocessing and data augmentation to improve classification accuracy.
 
-## Dataset
+## 🗂️ Dataset
 
 The dataset consists of three brain disease classes:
 
@@ -14,7 +14,7 @@ The dataset consists of three brain disease classes:
 
 The dataset used in this project is sourced from Kaggle. You can access and download the dataset from [this link](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain).
 
-## Dataset directory structure
+## 📁 Dataset directory structure
 
 ```bash
 healthy/
@@ -31,7 +31,7 @@ healthy/
 | |-- CTBrain_tumor/
 ```
 
-## Installation
+## ⚙️ Installation
 
 To run this project, ensure you have Python and the required libraries installed:
 
@@ -39,7 +39,7 @@ To run this project, ensure you have Python and the required libraries installed
 pip install tensorflow numpy matplotlib opencv-python scikit-learn keras
 ```
 
-## Usage
+## ▶️ Usage
 
 1. Run the .ipynb file in Jupyter Notebook or Google Colab.
 2. The model will be trained using the available dataset.
@@ -56,7 +56,7 @@ Detected Class: CTBrain_tumor
 
 Accompanied by a visualization of the input image.
 
-## LICENSE
+## 📜 LICENSE
 
 Copyright &copy; 2025 Ryan Gading Abdullah. All rights reserved.
 
